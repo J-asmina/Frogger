@@ -1,0 +1,30 @@
+C:\Users\PD\source\repos\Frogger\Frogger\bin\Debug\Frogger.exe.config
+C:\Users\PD\source\repos\Frogger\Frogger\bin\Debug\Frogger.exe
+C:\Users\PD\source\repos\Frogger\Frogger\bin\Debug\Frogger.pdb
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.AssemblyReference.cache
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.Igrica.resources
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.Properties.Resources.resources
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.GenerateResource.cache
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.exe
+C:\Users\PD\source\repos\Frogger\Frogger\obj\Debug\Frogger.pdb
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\bin\Debug\Frogger.exe.config
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\bin\Debug\Frogger.exe
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\bin\Debug\Frogger.pdb
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.csproj.AssemblyReference.cache
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.Igrica.resources
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.Properties.Resources.resources
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.csproj.GenerateResource.cache
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.csproj.CoreCompileInputs.cache
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.exe
+D:\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.pdb
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\bin\Debug\Frogger.exe.config
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\bin\Debug\Frogger.exe
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\bin\Debug\Frogger.pdb
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.csproj.AssemblyReference.cache
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.Igrica.resources
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.Properties.Resources.resources
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.csproj.GenerateResource.cache
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.exe
+C:\Users\PD\Desktop\Seminarski rad - Fazi logicki sistemi\Frogger\Frogger\obj\Debug\Frogger.pdb
